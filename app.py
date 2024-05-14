@@ -292,4 +292,4 @@ def update_charges_box_plot(selected_range):
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False,host='0.0.0.0')
