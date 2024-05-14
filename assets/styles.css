@@ -1,0 +1,16 @@
+.rc-slider-handle {
+    border-color: #007bff !important;  /* Bootstrap primary color */
+    background-color: #007bff !important;
+    width: 20px !important;
+    height: 20px !important;
+    margin-top: -8px;  /* Center handle vertically */
+}
+
+.rc-slider-track {
+    background-color: #007bff !important;  /* Bootstrap primary color */
+    height: 10px !important;
+}
+
+.rc-slider-rail {
+    height: 10px !important;
+}
